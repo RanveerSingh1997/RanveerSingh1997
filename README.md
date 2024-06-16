@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanveerSingh1997&layout=compact&theme=radical)](https://github.com/RanveerSingh1997/github-readme-stats)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ranveer-singh-gour/)](https://www.linkedin.com/in/ranveer-singh-gour/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ranveer-singh-gour/)](https://www.linkedin.com/in/ranveer-singh-gour-410996158/)
 
 ### 🎓 Education
 - **Degree**: Bachelor of Technology in Computer Science
