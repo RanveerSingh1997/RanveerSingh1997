@@ -12,9 +12,9 @@
 - ⚡ Fun fact: I love learning new technology and continously upgrading myself.
 
 ### 🛠️ Teck Stack
-- **Languages**: Dart, Kotlin, Java, C ,C++
-- **Frameworks**: Flutter and Android
-- **Tools**: Git, Android Studio, Firebase VsCode
+- **Languages**: Dart, Kotlin, Java, C ,C++ , Swift
+- **Frameworks**: Android, iOS and Flutter
+- **Tools**: Git, Android Studio, Firebase VsCode, Co-pilot
 
 ### 📈 GitHub Stats
 ![Ranvee's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanveerSingh1997&show_icons=true&theme=radical)
