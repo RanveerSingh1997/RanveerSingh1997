@@ -20,6 +20,7 @@ Flutter developer building cross-platform mobile apps, currently leveling up on 
 
 | Project | Description |
 |---|---|
+| [air_pointer](https://github.com/RanveerSingh1997/air_pointer) | Platform-agnostic Flutter input library unifying mouse, touch, trackpad, and hand-tracking behind one controller |
 | [resilient_http](https://github.com/RanveerSingh1997/resilient_http) | Resilient HTTP client for Dart/Flutter |
 | [mermaid_dart](https://github.com/RanveerSingh1997/mermaid_dart) | Mermaid diagram rendering for Dart |
 | [command_history](https://github.com/RanveerSingh1997/command_history) | Command history utility package |
